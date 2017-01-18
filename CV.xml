@@ -1,0 +1,79 @@
+<CV>
+<Education>
+	<Qualification>
+		<Period>2011-2015</Period> 
+		<Institution>The University of Manchester</Institution>
+		<Certificate>
+			<CertTitle>BA (Hons) Middle Eastern Studies with a Modern Language</CertTitle>
+			<Subject>Arabic and Spanish</Subject>
+				<Result>2.1 (68%)</Result>
+		</Certificate>
+	</Qualification>
+
+	<Qualification>
+		<Period>2006-2011</Period>
+		<Institution>Charterhouse School</Institution>
+		<Certificate>
+			<CertTitle>Cambridge Pre-U</CertTitle>
+			<Subject>Spanish</Subject>
+				<Result>D2</Result>
+			<Subject/>English Literature</Certificate>
+				<Result>D3</Result>
+			<Subject>Economics</Subject>
+				<Result>D3</Result>
+		</Qualification>
+	</Education>
+
+	<Qualification>
+		<Period>01/05/2009 - 15/07/2009</Period>
+		<Institution>Charterhouse School</Institution>
+		<Certificate>
+			<CertTitle>IGSCE</CertTitle>
+			<Subject>English Language</Subject>
+				<Result>A*</Result>
+			<Subject/>Biology</Subject>
+				<Result>A*</Result>
+			<Subject>French</Subject>
+				<Result>A*</Result>
+			<Subject>Spanish</Subject>
+				<Result>A*</Result>
+			<Subject/>Maths</Subject>
+				<Result>A</Result>
+			<Subject>Chemistry</Subject>
+				<Result>A</Result>
+			<Subject>Physics</Subject> 
+				<Result>A</Result>
+			<Subject/>Latin</Subject>
+				<Result>A</Result>
+			<Subject>Geography</Subject>
+				<Result>A</Result>
+		</Certificate>
+	</Qualification>
+</Education>
+
+<Experience>
+	<Period>01/01/2016 - 15/12/2016</Period>
+	<Position>Arabic & Middle Eastern Analyst</Position>
+	<Company>Neon Century</Company>
+	<Description>Using my language skills, as well as dozens of OSINT analytical tools and sources, I have worked on bespoke intelligence reports focussed on the Middle East and South America. These reports were primarily centred on terrorist activity in Syria, accounting for both events on the ground and the implications these actions might have. 
+	Additionally I have delivered corporate due diligence reports using public domain research as well as OSINT tools to extract further information.</Description>
+</Experience>
+
+<Experience>
+	<Period>05/12/2014 - 20/07/2015</Period>
+	<Position>Profile Writer</Position>
+	<Company>Sustainable Business Magazine</Company>
+	<Description>I produced several features on a freelance basis for a start-up magazine which focussed on businesses and higher educational institutions that use triple bottom line accounting. 
+	I was able to produce these articles to a tight deadline.</Description>
+</Experience>
+
+<Experience>
+	<Period>01/09/2014 - 28/09/2014</Period>
+	<Position>Intern</Position>
+	<Company>Aegis Advisory</Company>
+	<Description>Working with a political and economic risk analysis consultancy I was tasked with monitoring various regions of the Middle East and producing descriptive and analytical reports based on incidents occurring on the ground.
+	In addition to this I scanned national and international daily newspapers and would send a companywide email summarising the key stories likely to affect geopolitics and international economies. 
+	I also provided research and analytical assistance to the kidnapping and ransoms division.</Description>
+</Experience>
+
+</CV>
