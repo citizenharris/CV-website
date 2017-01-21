@@ -1,0 +1,33 @@
+main {
+	background-image: url("/Users/tech-a46/Desktop/Sparta/Week 2/GHarris-website/css/above-the-clouds.jpeg");
+	background-size: 100%;
+	background-repeat: repeat-x;
+}
+
+.mainName {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 100px;
+	font-weight: 100;
+	margin: 0;
+}
+
+.contactDeets {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	font-weight: lighter;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+	color: black;
+	background-color: black;
+}
+
+section {
+	padding: 2em;
+
+}
+
+section#employment {
+	color: white;
+}
