@@ -1,7 +1,33 @@
-main {
+ul {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+#navBar ul li {
+	display: inline-block;
+	padding: 15px;
+	padding-top: 1px;
+	width: 50%
+	margin: 0 auto;
+}
+
+#navBar a {
+	color: black;
+}
+
+body {
 	background-image: url("/Users/tech-a46/Desktop/Sparta/Week 2/GHarris-website/css/above-the-clouds.jpeg");
 	background-size: 100%;
-	background-repeat: repeat-x;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#head {
+	margin-top: 200px;
 }
 
 .mainName {
@@ -9,19 +35,44 @@ main {
 	font-size: 100px;
 	font-weight: 100;
 	margin: 0;
+	text-align: center;
 }
 
-.contactDeets {
+.contactDeets, #navBar {
 	font-family: 'Quicksand', sans-serif;
 	font-size: 20px;
 	font-weight: lighter;
+	margin: 0;
+	/*display: inline-block;*/
+	text-align: center;
 }
 
-body {
+#navBar {
+	font-size: 30px;
+}
+
+.links {
+	text-align: center;
+	margin-top: 250px;
+}
+
+.links li {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	font-weight: lighter;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.columns {
+	float: right;
+}
+
+/*body {
 	font-family: 'Raleway', sans-serif;
 	color: black;
 	background-color: black;
-}
+}*/
 
 section {
 	padding: 2em;
@@ -29,5 +80,5 @@ section {
 }
 
 section#employment {
-	color: white;
+	
 }
