@@ -64,8 +64,8 @@ body {
 	margin: 0 auto;
 }
 
-.columns {
-	float: right;
+#education {
+	float: left;
 }
 
 /*body {
