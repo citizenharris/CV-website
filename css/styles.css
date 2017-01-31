@@ -72,18 +72,27 @@ body {
 	clear: both;
 }
 #lcolm, #rcolm {
-	width: 75%
+	/*width: 75%*/
 	margin: 0 auto;
 	padding: 10px;
-	border: solid black 2px;
 }
 
 .columns {
+	width: 52%;
 	margin: 0 auto;
+	/*text-align: center;*/
 }
+
+/** {
+	border: solid black 1px;
+}*/
 
 #lcolm {
 	float: left;
+}
+
+#lcolm img {
+	vertical-align: bottom;
 }
 
 #rcolm {
@@ -101,6 +110,10 @@ section {
 
 }
 
+#education {
+	width: 100%;
+}
+
 @media screen and (max-width: 1160px) {
 			body {
 			background-image: url("/Users/tech-a46/Desktop/Sparta/Websites/GHarris-website/css/above-the-clouds-tablet.jpeg");
@@ -115,7 +128,3 @@ section {
 				font-size: 75px
 			}
 		}
-
-section#employment {
-	
-}
