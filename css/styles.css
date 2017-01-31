@@ -68,6 +68,28 @@ body {
 	float: left;
 }
 
+.clear {
+	clear: both;
+}
+#lcolm, #rcolm {
+	width: 75%
+	margin: 0 auto;
+	padding: 10px;
+	border: solid black 2px;
+}
+
+.columns {
+	margin: 0 auto;
+}
+
+#lcolm {
+	float: left;
+}
+
+#rcolm {
+	float: left;
+}
+
 /*body {
 	font-family: 'Raleway', sans-serif;
 	color: black;
