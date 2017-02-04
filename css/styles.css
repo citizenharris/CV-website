@@ -1,4 +1,4 @@
-ul {
+ul, ol {
 	list-style: none;
 }
 
@@ -19,8 +19,8 @@ a {
 }
 
 body {
-	background-image: url("/Users/tech-a46/Desktop/Sparta/Websites/GHarris-website/css/above-the-clouds.jpeg");
-	background-size: 100%;
+	background-image: url("../images/above-the-clouds.jpeg");
+	background-size: cover;
 	background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -71,33 +71,33 @@ body {
 .clear {
 	clear: both;
 }
-#lcolm, #rcolm {
-	/*width: 75%*/
+
+/*.columns {
+	padding: 2em;
+}
+*/
+
+#rcolm, #lcolm {
+	width: 75%
 	margin: 0 auto;
 	padding: 15px 25px;
+	/*float: left;*/
+	display: inline-block;
 }
 
-.columns {
-	width: 60%;
-	margin: 0 auto;
-	/*text-align: center;*/
-}
 
 /** {
 	border: solid black 1px;
-}*/
+}
+*/
 
-#lcolm {
-	float: left;
+#rcolm {
 	padding-top: 55px;
 }
 
-#lcolm img {
-
-}
-
-#rcolm {
-	float: left;
+#center {
+	width: 50%;
+	margin: 0 auto;
 }
 
 #uni {
@@ -110,30 +110,25 @@ body {
 	background-color: black;
 }*/
 
-section {
+/*section {
 	padding: 2em;
 
-}
+}*/
 
 #education {
 	width: 100%;
 }
 
-#employment {
+#employment, .columns {
 	width: 75%;
 	margin: 0 auto;
 }
 
-@media screen and (max-width: 1160px) {
-			body {
-			background-image: url("/Users/tech-a46/Desktop/Sparta/Websites/GHarris-website/css/above-the-clouds-tablet.jpeg");
-			}
-		}
+#edtitle {
+	margin-left: -25px;
+}
 
 @media screen and (max-width: 760px) {
-			body {
-			background-image: url("/Users/tech-a46/Desktop/Sparta/Websites/GHarris-website/css/above-the-clouds-mobile.jpeg");
-			}
 			.mainName {
 				font-size: 75px
 			}
