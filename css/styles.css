@@ -115,6 +115,11 @@ body {
 
 }*/
 
+#education, #employment {
+	font-family: 'Raleway', sans-serif;
+	font-weight: lighter;
+}
+
 #education {
 	width: 100%;
 }
@@ -124,9 +129,25 @@ body {
 	margin: 0 auto;
 }
 
+#employment {
+	background-color:rgba(255,255,255,0.5);
+}
+
+.bold {
+	font-family: 'Raleway', sans-serif, 
+	font-weight: bolder;
+	border: solid, black, 2px;
+}
+
 #edtitle {
 	margin-left: -25px;
 }
+
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Yantramanav', sans-serif;
+font-family: 'Heebo', sans-serif;*/
 
 @media screen and (max-width: 760px) {
 			.mainName {
